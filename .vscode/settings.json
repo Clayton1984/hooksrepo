@@ -3,6 +3,7 @@
         "atualiza",
         "clicado",
         "Contador",
+        "contexto",
         "dependência",
         "executa",
         "Filho",
@@ -11,6 +12,7 @@
         "mudou",
         "renderizou",
         "Teste",
+        "título",
         "toda"
     ]
 }
